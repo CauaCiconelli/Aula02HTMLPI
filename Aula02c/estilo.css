@@ -1,0 +1,30 @@
+body{
+    background: #e2e2e2;
+}
+.divUm{
+    background: white; 
+    height: 500px;
+    width: 50%;
+    border: black 10px dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.divDois{
+    background: rgb(255, 196, 0);
+    height: 50px;
+    width: 30%;
+}
+.divTres{
+    background: rgb(153, 41, 0);
+    height: 100px;
+    width: 30%;
+}
+.divQuat{
+    background: rgb(57, 138, 57);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
