@@ -1,0 +1,18 @@
+.divUm{
+    background: rgb(236, 88, 255);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.divDois{
+    background: #e81c90;
+    height: 100%;
+    width: 250px;
+    border: 20px red;
+}
+.divTres{
+    background: rgb(60, 184, 115);
+    height: 88%;
+    width: 30%;
+}
